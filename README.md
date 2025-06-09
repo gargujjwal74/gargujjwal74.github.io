@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ujjwal Garg
-- 👀 I’m interested in Cloud and Devops
-- 🌱 I’m currently working in Zscaler as a Cloud Ops Engineer
+- 🌱 I’m currently working in Akamai as a SRE II
 - 📫 How to reach me ...
       LinkedIn : https://in.linkedin.com/in/ujjwal-garg-90780b174
 
